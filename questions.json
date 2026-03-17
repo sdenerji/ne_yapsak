@@ -1,0 +1,30 @@
+{
+  "tr": {
+    "giybet": ["Gruptaki en gizli stalker kim?", "Masadakilerden hangisi gizli zengin?", "Telefonunu şifresiz masaya bırakacak olan cesur kim?", "En son kime yalan söyledin?"],
+    "karar": ["Hesabı kim öder?", "Sıradaki şarkıyı kim seçer?", "Kahveleri kim ısmarlıyor?", "Yemeği kim sipariş ediyor?"]
+  },
+  "en": {
+    "giybet": ["Who is the secret boss of this group?", "Who has the weirdest search history?", "Who is the most likely to become famous?", "Who is the biggest gossip here?"],
+    "karar": ["Who pays the bill?", "Who picks the next movie?", "Who's driving today?", "Who chooses the restaurant?"]
+  },
+  "de": {
+    "giybet": ["Wer hat das größte Geheimnis?", "Wer ist der heimliche Chef?", "Wer würde zuerst auswandern?"],
+    "karar": ["Wer bezahlt?", "Wer wählt die Musik?", "Wer kocht heute?"]
+  },
+  "es": {
+    "giybet": ["¿Quién es el más cotilla?", "¿Quién es el jefe secreto?", "¿Quién tiene el secreto más grande?"],
+    "karar": ["¿Quién paga la cuenta?", "¿Quién elige la música?", "¿Quién conduce?"]
+  },
+  "fr": {
+    "giybet": ["Qui est le plus grand commère ?", "Qui est le chef secret ?", "Qui a le plus grand secret ?"],
+    "karar": ["Qui paie l'addition ?", "Qui choisit la musique ?", "Qui conduit ?"]
+  },
+  "pt": {
+    "giybet": ["Quem é o mais fofoqueiro?", "Quem é o chefe secreto?", "Quem tem o maior segredo?"],
+    "karar": ["Quem paga a conta?", "Quem escolhe a música?", "Quem dirige?"]
+  },
+  "ja": {
+    "giybet": ["この中で一番の秘密主義は誰？", "隠れセレブは誰？", "一番最初に結婚しそうなのは？"],
+    "karar": ["支払いは誰？", "次の曲を選ぶのは？", "誰が運転する？"]
+  }
+}
